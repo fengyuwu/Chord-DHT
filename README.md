@@ -14,7 +14,7 @@ Pre-requisites
 Getting Started
 ---------------
 
-This project implemented a simple DHT based on Chord. Although the design described here is based on Chord, it is a simplified version of Chord.
+This project implemented a simple DHT based on Chord. Although the design described here is based on Chord, it is a simplified version of Chord.To test the DHT, clone the whole project and open it in Android Studio.
 
 
 Testing
@@ -26,9 +26,9 @@ After the download is completed, open an existing Android Studio project and cho
 
 Now, type the following command in your terminal (For example: if the system is macOS):
 - python set_redir.py 10000
-- ./SimpleDht-grading.osx 
+- ./simpledht-grading.osx 
 
-After these commands are executed, the test case will run and verify the correctness of the system.
+After these commands are executed, the test case will run and verify the correctness of the DHT.
 
 
 License
