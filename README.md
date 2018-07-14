@@ -1,4 +1,4 @@
-Simplified-Chord
+Chord-DHT
 ===================================
 
 Pre-requisites
