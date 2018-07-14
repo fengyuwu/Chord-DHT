@@ -14,7 +14,7 @@ Pre-requisites
 Getting Started
 ---------------
 
-This project implemented a simple DHT based on Chord. Although the design described here is based on Chord, it is a simplified version of Chord.To test the DHT, clone the whole project and open it in Android Studio.
+This project implemented a simple DHT based on Chord. Although it is based on the Chord protocol, it is a simplified version of Chord.To test the DHT, clone the whole project and open it in Android Studio.
 
 
 Testing
